@@ -1,0 +1,24 @@
+.w-webflow-badge{
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    #open-btn{
+margin-right: 10px !important;
+top: 38px !important;
+    }
+    #titleHead{
+        font-size: 6vw !important;
+    }
+    #Logo{
+        width: 40px !important;
+        height: auto;
+    }
+   
+    p{
+        margin: 0%;
+    }
+  }
